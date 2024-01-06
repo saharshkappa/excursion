@@ -6,6 +6,15 @@ html{
 h1, h2, h3, h4, h5{
  color: white;
 }
+h2{
+  font-size: 42px;
+}
+h3{
+  font-size: 21px;
+}
+h1{
+  font-size: 50px;
+}
 .camp img{
   width: 100%;
 }
